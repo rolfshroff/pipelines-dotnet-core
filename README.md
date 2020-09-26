@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/RolfsPACE/PipelinesRnD/_apis/build/status/rolfshroff.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/RolfsPACE/PipelinesRnD/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/RolfsPACE/PipelinesRnD/_apis/build/status/rolfshroff.pipelines-dotnet-core?branchName=master)]
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
